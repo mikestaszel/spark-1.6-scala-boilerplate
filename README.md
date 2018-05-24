@@ -2,6 +2,7 @@
 This contains enough boilerplate code to get you started with Apache Spark 1.6.x and Scala.
 
 If you need to use Spark 2.0.0 or later, this project will not work for you.
+See this instead: https://github.com/mikestaszel/spark-scala-boilerplate
 
 ## Building ##
 Run the following:
